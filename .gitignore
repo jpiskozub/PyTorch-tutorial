@@ -122,3 +122,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.fashion/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+.fashion/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+.fashion/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+.fashion/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+.fashion/data/FashionMNIST/raw/train-images-idx3-ubyte
+.fashion/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+.fashion/data/FashionMNIST/raw/train-labels-idx1-ubyte
+.fashion/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
