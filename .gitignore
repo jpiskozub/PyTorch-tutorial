@@ -130,3 +130,7 @@ dmypy.json
 .fashion/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
 .fashion/data/FashionMNIST/raw/train-labels-idx1-ubyte
 .fashion/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+resources/data/Negative
+.gitignore
+.gitignore
+resources/data/Positive
